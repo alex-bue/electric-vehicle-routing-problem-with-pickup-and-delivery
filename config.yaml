@@ -1,0 +1,24 @@
+pdp_config:
+  instance_type: PDP
+  num_vehicles: 50
+  vehicle_capacity: 33000
+  energy_capacity: 390
+  battery_consumption_rate: 1.5
+  solver_settings:
+    first_solution_strategy: AUTOMATIC
+    local_search_metaheuristic: TABU_SEARCH
+    time_limit: 100
+    lns_time_limit: null
+epdp_config:
+  instance_type: EPDP
+  num_vehicles: 10
+  battery_consumption_rate: 1.3
+  vehicle_capacity: 33000
+  energy_capacity: 390
+  charging_capacity: 300
+  solver_settings:
+    first_solution_strategy: SAVINGS
+    local_search_metaheuristic: TABU_SEARCH
+    time_limit: 150
+
+    lns_time_limit: null

@@ -1,0 +1,587 @@
+{
+    "routes": {
+        "0": [
+            7,
+            18,
+            1,
+            25,
+            24,
+            12,
+            28
+        ],
+        "1": [
+            11,
+            10,
+            30,
+            22,
+            21
+        ],
+        "2": [
+            8,
+            19,
+            9,
+            20
+        ],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": [],
+        "7": [],
+        "8": [],
+        "9": [],
+        "10": [],
+        "11": [],
+        "12": [],
+        "13": [],
+        "14": []
+    },
+    "routes_node2index": {
+        "0": [
+            66,
+            50,
+            5,
+            302,
+            245,
+            75,
+            317
+        ],
+        "1": [
+            5,
+            5,
+            226,
+            80,
+            79
+        ],
+        "2": [
+            66,
+            50,
+            66,
+            50
+        ],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": [],
+        "7": [],
+        "8": [],
+        "9": [],
+        "10": [],
+        "11": [],
+        "12": [],
+        "13": [],
+        "14": []
+    },
+    "final_objective": 557,
+    "final_var": {
+        "0": {
+            "Time": 34,
+            "Distance": 922
+        },
+        "1": {
+            "Time": 19,
+            "Distance": 502
+        },
+        "2": {
+            "Time": 4,
+            "Distance": 7
+        },
+        "3": {
+            "Time": 0,
+            "Distance": 0
+        },
+        "4": {
+            "Time": 0,
+            "Distance": 0
+        },
+        "5": {
+            "Time": 0,
+            "Distance": 0
+        },
+        "6": {
+            "Time": 0,
+            "Distance": 0
+        },
+        "7": {
+            "Time": 0,
+            "Distance": 0
+        },
+        "8": {
+            "Time": 0,
+            "Distance": 0
+        },
+        "9": {
+            "Time": 0,
+            "Distance": 0
+        },
+        "10": {
+            "Time": 0,
+            "Distance": 0
+        },
+        "11": {
+            "Time": 0,
+            "Distance": 0
+        },
+        "12": {
+            "Time": 0,
+            "Distance": 0
+        },
+        "13": {
+            "Time": 0,
+            "Distance": 0
+        },
+        "14": {
+            "Time": 0,
+            "Distance": 0
+        }
+    },
+    "cumul_vars": {
+        "7": {
+            "Time": 1,
+            "Distance": 0,
+            "Capacity": 0,
+            "Energy": 390
+        },
+        "18": {
+            "Time": 2,
+            "Distance": 2,
+            "Capacity": 24000,
+            "Energy": 388
+        },
+        "1": {
+            "Time": 3,
+            "Distance": 3,
+            "Capacity": 0,
+            "Energy": 387
+        },
+        "25": {
+            "Time": 7,
+            "Distance": 95,
+            "Capacity": 24556,
+            "Energy": 268
+        },
+        "24": {
+            "Time": 17,
+            "Distance": 407,
+            "Capacity": 24556,
+            "Energy": 42
+        },
+        "12": {
+            "Time": 20,
+            "Distance": 474,
+            "Capacity": 24556,
+            "Energy": 345
+        },
+        "28": {
+            "Time": 30,
+            "Distance": 740,
+            "Capacity": 0,
+            "Energy": 0
+        },
+        "11": {
+            "Time": 1,
+            "Distance": 0,
+            "Capacity": 0,
+            "Energy": 390
+        },
+        "10": {
+            "Time": 2,
+            "Distance": 0,
+            "Capacity": 5823,
+            "Energy": 390
+        },
+        "30": {
+            "Time": 8,
+            "Distance": 152,
+            "Capacity": 25146,
+            "Energy": 193
+        },
+        "22": {
+            "Time": 12,
+            "Distance": 253,
+            "Capacity": 25146,
+            "Energy": 323
+        },
+        "21": {
+            "Time": 13,
+            "Distance": 254,
+            "Capacity": 19323,
+            "Energy": 322
+        },
+        "8": {
+            "Time": 1,
+            "Distance": 0,
+            "Capacity": 0,
+            "Energy": 390
+        },
+        "19": {
+            "Time": 2,
+            "Distance": 2,
+            "Capacity": 24000,
+            "Energy": 388
+        },
+        "9": {
+            "Time": 3,
+            "Distance": 4,
+            "Capacity": 0,
+            "Energy": 386
+        },
+        "20": {
+            "Time": 4,
+            "Distance": 6,
+            "Capacity": 24000,
+            "Energy": 384
+        }
+    },
+    "dropped_nodes": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        13,
+        14,
+        15,
+        16,
+        17,
+        23,
+        26,
+        27,
+        29,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37
+    ],
+    "dropped_index": [
+        5,
+        5,
+        5,
+        5,
+        5,
+        75,
+        75,
+        75,
+        75,
+        75,
+        251,
+        214,
+        274,
+        265,
+        262,
+        329,
+        278,
+        328,
+        253,
+        268,
+        298
+    ],
+    "solution_log": {
+        "0": {
+            "objective_value": 1206,
+            "min_objective_value": 1206,
+            "time": 506
+        },
+        "1": {
+            "objective_value": 1205,
+            "min_objective_value": 1205,
+            "time": 536
+        },
+        "2": {
+            "objective_value": 1204,
+            "min_objective_value": 1204,
+            "time": 543
+        },
+        "3": {
+            "objective_value": 1203,
+            "min_objective_value": 1203,
+            "time": 559
+        },
+        "4": {
+            "objective_value": 1202,
+            "min_objective_value": 1202,
+            "time": 589
+        },
+        "5": {
+            "objective_value": 1198,
+            "min_objective_value": 1198,
+            "time": 631
+        },
+        "6": {
+            "objective_value": 1192,
+            "min_objective_value": 1192,
+            "time": 638
+        },
+        "7": {
+            "objective_value": 1190,
+            "min_objective_value": 1190,
+            "time": 666
+        },
+        "8": {
+            "objective_value": 1185,
+            "min_objective_value": 1185,
+            "time": 676
+        },
+        "9": {
+            "objective_value": 1183,
+            "min_objective_value": 1183,
+            "time": 681
+        },
+        "10": {
+            "objective_value": 1180,
+            "min_objective_value": 1180,
+            "time": 687
+        },
+        "11": {
+            "objective_value": 1175,
+            "min_objective_value": 1175,
+            "time": 692
+        },
+        "12": {
+            "objective_value": 1171,
+            "min_objective_value": 1171,
+            "time": 713
+        },
+        "13": {
+            "objective_value": 1161,
+            "min_objective_value": 1161,
+            "time": 721
+        },
+        "14": {
+            "objective_value": 1156,
+            "min_objective_value": 1156,
+            "time": 728
+        },
+        "15": {
+            "objective_value": 1149,
+            "min_objective_value": 1149,
+            "time": 737
+        },
+        "16": {
+            "objective_value": 1140,
+            "min_objective_value": 1140,
+            "time": 768
+        },
+        "17": {
+            "objective_value": 1134,
+            "min_objective_value": 1134,
+            "time": 778
+        },
+        "18": {
+            "objective_value": 1100,
+            "min_objective_value": 1100,
+            "time": 784
+        },
+        "19": {
+            "objective_value": 1002,
+            "min_objective_value": 1002,
+            "time": 789
+        },
+        "20": {
+            "objective_value": 904,
+            "min_objective_value": 904,
+            "time": 798
+        },
+        "21": {
+            "objective_value": 806,
+            "min_objective_value": 806,
+            "time": 826
+        },
+        "22": {
+            "objective_value": 818,
+            "min_objective_value": 806,
+            "time": 1155
+        },
+        "23": {
+            "objective_value": 832,
+            "min_objective_value": 806,
+            "time": 1378
+        },
+        "24": {
+            "objective_value": 835,
+            "min_objective_value": 806,
+            "time": 1592
+        },
+        "25": {
+            "objective_value": 740,
+            "min_objective_value": 740,
+            "time": 1617
+        },
+        "26": {
+            "objective_value": 738,
+            "min_objective_value": 738,
+            "time": 1694
+        },
+        "27": {
+            "objective_value": 836,
+            "min_objective_value": 738,
+            "time": 3541
+        },
+        "28": {
+            "objective_value": 934,
+            "min_objective_value": 738,
+            "time": 3754
+        },
+        "29": {
+            "objective_value": 1032,
+            "min_objective_value": 738,
+            "time": 3971
+        },
+        "30": {
+            "objective_value": 934,
+            "min_objective_value": 738,
+            "time": 3985
+        },
+        "31": {
+            "objective_value": 946,
+            "min_objective_value": 738,
+            "time": 4253
+        },
+        "32": {
+            "objective_value": 951,
+            "min_objective_value": 738,
+            "time": 4483
+        },
+        "33": {
+            "objective_value": 950,
+            "min_objective_value": 738,
+            "time": 4556
+        },
+        "34": {
+            "objective_value": 948,
+            "min_objective_value": 738,
+            "time": 4586
+        },
+        "35": {
+            "objective_value": 968,
+            "min_objective_value": 738,
+            "time": 4789
+        },
+        "36": {
+            "objective_value": 870,
+            "min_objective_value": 738,
+            "time": 4823
+        },
+        "37": {
+            "objective_value": 772,
+            "min_objective_value": 738,
+            "time": 4846
+        },
+        "38": {
+            "objective_value": 762,
+            "min_objective_value": 738,
+            "time": 4922
+        },
+        "39": {
+            "objective_value": 760,
+            "min_objective_value": 738,
+            "time": 4961
+        },
+        "40": {
+            "objective_value": 667,
+            "min_objective_value": 667,
+            "time": 5043
+        },
+        "41": {
+            "objective_value": 569,
+            "min_objective_value": 569,
+            "time": 5075
+        },
+        "42": {
+            "objective_value": 564,
+            "min_objective_value": 564,
+            "time": 5143
+        },
+        "43": {
+            "objective_value": 561,
+            "min_objective_value": 561,
+            "time": 5161
+        },
+        "44": {
+            "objective_value": 559,
+            "min_objective_value": 559,
+            "time": 5286
+        },
+        "45": {
+            "objective_value": 557,
+            "min_objective_value": 557,
+            "time": 5347
+        },
+        "46": {
+            "objective_value": 558,
+            "min_objective_value": 557,
+            "time": 8777
+        },
+        "47": {
+            "objective_value": 559,
+            "min_objective_value": 557,
+            "time": 9475
+        },
+        "48": {
+            "objective_value": 562,
+            "min_objective_value": 557,
+            "time": 10061
+        },
+        "49": {
+            "objective_value": 561,
+            "min_objective_value": 557,
+            "time": 10104
+        },
+        "50": {
+            "objective_value": 659,
+            "min_objective_value": 557,
+            "time": 11172
+        },
+        "51": {
+            "objective_value": 561,
+            "min_objective_value": 557,
+            "time": 11199
+        },
+        "52": {
+            "objective_value": 567,
+            "min_objective_value": 557,
+            "time": 11940
+        },
+        "53": {
+            "objective_value": 588,
+            "min_objective_value": 557,
+            "time": 12581
+        }
+    },
+    "station_nodes": [
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37
+    ],
+    "station_index": [
+        251,
+        245,
+        302,
+        214,
+        274,
+        317,
+        265,
+        226,
+        262,
+        329,
+        278,
+        328,
+        253,
+        268,
+        298
+    ]
+}
