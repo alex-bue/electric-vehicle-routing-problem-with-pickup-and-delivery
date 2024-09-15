@@ -34,21 +34,20 @@ The `evrp` can be executed via the command line with the following commands and 
 #### Example PDP Command
 
 ```bash
-evrp pdp -o solutions/output.json --date 18/04/2023 --with_energy_constraints
+evrp pdp -o solutions/output.json --date 18/04/2023
 ```
 
 #### Options:
 - `-o, --output`: Output file path for the solution (default: stdout)
 - `--plot_output`: Output file path for the plot
 - `--date`: Date for filtering bookings (`dd/mm/yyyy`)
-- `--with_energy_constraints`: Include energy constraints (only for PDP)
 
 #### Configuration
 
 You can provide a configuration file before invoking `pdp` or `epdp` to override the default model values:
 
 ```bash
-evrp -c path/to/config.yaml pdp -o solutions/output.json --date 18/04/2023 --with_energy_constraints
+evrp -c path/to/config.yaml pdp -o solutions/output.json --date 18/04/2023
 ```
 
 The default configuration can be dumped and saved by specifying the `--output` flag:
